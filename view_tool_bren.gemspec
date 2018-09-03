@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{View specific methods for applications}
   spec.description   = %q{Generates HTML data for rails applications}
-  spec.homepage      = "https://devcamp.com"
+  spec.homepage      = "https://github.com/tommyb67/view_tool_bren"
   spec.license       = "MIT"
 
 
